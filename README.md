@@ -18,6 +18,10 @@
 - `gcf_json_1.ipynb` and `gcf_json_2.ipynb` corresponds to the additional first and second API calls in the causal discovery process of JSON, respectively.
 - `gcf_xml_1.ipynb` and `gcf_xml_2.ipynb` corresponds to the additional first and second API calls in the causal discovery process of XML, respectively.
 - `gcf_yaml_1.ipynb` and `gcf_yaml_2.ipynb` corresponds to the additional first and second API calls in the causal discovery process of YAML, respectively.
+- `llama_gsm8k_json.ipynb`, `llama_gsm8k_xml.ipynb`, `llama_gsm8k_yaml.ipynb`, corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
+- `gemma_gsm8k_json.ipynb`, `gemma_gsm8k_xml.ipynb`, `gemma_gsm8k_yaml.ipynb`, corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
+- `phi_gsm8k_json.ipynb`, `phi_gsm8k_xml.ipynb`, `phi_gsm8k_yaml.ipynb`, corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
+
 
 `gcc` folder records the causal discovery process of German Credit Causality.
 - `gcc_json.ipynb`, `gcc_xml.ipynb`, and `gcc_yaml.ipynb` corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
