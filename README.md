@@ -27,6 +27,6 @@
 - `gcc_json.ipynb`, `gcc_xml.ipynb`, and `gcc_yaml.ipynb` corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
 
 `ellc_dataset` folder contains four datasets and benchmark results related to the ELLC task.
-- `ellc_4_words.json` and `ellc_6_words.json` refer to last letter concatenation of 4 and 6 words, respectively
-- `emlc_4_words.json` and `emlc_6_words.json` stand for middle letter concatenation of 4 and 6 words, respectively
+- `ellc_4_words.json` and `ellc_6_words.json` refer to last letter concatenation of 4 and 6 words, respectively.
+- `emlc_4_words.json` and `emlc_6_words.json` stand for middle letter concatenation of 4 and 6 words, respectively.
 - `ellc_benchmark.ipynb` records the code and results of benchmark study on ELLC.
