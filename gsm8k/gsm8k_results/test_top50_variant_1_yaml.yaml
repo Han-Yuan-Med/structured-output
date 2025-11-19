@@ -1,0 +1,787 @@
+- reasoning: 'Chris''s chickens produce 16 eggs daily. He consumes 3 eggs each morning
+    and uses 4 eggs for baking cakes. This totals up to 3 + 4 = 7 eggs used daily.
+
+    Therefore, the number of eggs left for sale is 16 - 7 = 9 eggs each day.
+
+    He sells these leftover eggs at the local market for $2 per egg.
+
+    Thus, the money he earns each day at the local market is 9 eggs * $2 per egg =
+    $18.
+
+    '
+  answer: $18
+- reasoning: 'To determine the total number of bolts required, we first know that
+    it takes 2 bolts of blue fiber. For the white fiber, it''s half as many bolts
+    as the blue fiber, so it''s 2 / 2 = 1 bolt of white fiber. Adding these together
+    gives us the total number of bolts needed.
+
+    '
+  answer: '3'
+- reasoning: '"First, calculate the total investment by adding the purchase price
+    and renovation costs: $80,000 + $50,000 = $130,000. Next, determine the increased
+    value of the house. Since the renovations boost the house''s value by 150%, multiply
+    the total investment by 1.5: $130,000 * 1.50 = $195,000. To find the profit, subtract
+    the total investment from the new value: $195,000 - $130,000 = $65,000."
+
+    '
+  answer: 65,000
+- reasoning: 'James runs 3 sprints in each session, and each sprint covers 60 meters.
+
+    Therefore, each session covers:
+
+    3 sprints * 60 meters/sprint = 180 meters.
+
+
+    He does 3 sessions each week, so the total distance covered in a week is:
+
+    3 sessions/week * 180 meters/session = 540 meters/week.
+
+    '
+  answer: '540'
+- reasoning: '"Miranda needs to provide a consistent total amount of feed each day.
+    We need to determine the total daily feed first. In the morning, she provides
+    15 cups and in the afternoon, she provides 25 cups. Therefore, the initial provided
+    amount is 15 + 25 = 40 cups of feed. To meet her daily feeding routine for her
+    20 chickens, we assume this total must be evenly distributed across the day. Since
+    she provides feed in the morning, afternoon, and evening, if the total daily requirement
+    per chicken is 3 cups each (since every chicken gets the same balanced feed amount),
+    for 20 chickens, it would be 3 * 20 = 60 cups daily. Miranda has already dispensed
+    40 cups. Thus, to meet this requirement, the total feed she needs to provide in
+    the evening is found by subtracting the already provided amount from the daily
+    total requirement: 60 - 40."
+
+    '
+  answer: '20'
+- reasoning: "First, calculate the price for a single glass, which is $5. For every\
+    \ second glass, the price is 60% of $5, which is $3. \nKylar buys 8 pairs of glasses\
+    \ (16 glasses in total), each pair consisting of one full-priced glass and one\
+    \ discounted glass.\nSo, for each pair of glasses, the cost is $5 + $3 = $8.\n\
+    Multiplying the cost of one pair by the number of pairs (8) gives 8 * $8.\n"
+  answer: '64'
+- reasoning: 'First, determine the size of Charleston''s herd: since it is 4 times
+    larger than Seattle''s, and Seattle''s flock consists of 20 sheep, Charleston''s
+    herd has 4 * 20 = 80 sheep.
+
+    Next, calculate Toulouse''s flock: since it is double the size of Charleston''s,
+    and Charleston''s herd consists of 80 sheep, Toulouse''s flock has 2 * 80 = 160
+    sheep.
+
+    Finally, add the number of sheep in all three flocks: Seattle''s 20 sheep + Charleston''s
+    80 sheep + Toulouse''s 160 sheep = 260 sheep.
+
+    '
+  answer: '260'
+- reasoning: "Carla is downloading a 200 GB file at a speed of 2 GB per minute. First,\
+    \ calculate the size of the file she downloads before the restart (40% of 200\
+    \ GB). \n40% of 200 GB is 0.4 * 200 GB = 80 GB.\nThe time taken to download 80\
+    \ GB is 80 GB / 2 GB per minute = 40 minutes. \nAfter downloading 40%, her computer\
+    \ restarts, which takes 20 minutes.\nTherefore, before Carla's computer restarts,\
+    \ she spends 40 minutes + 20 minutes for restart = 60 minutes.\n\nAfter the restart,\
+    \ Carla needs to download the remaining file size, which is still 200 GB since\
+    \ she has to begin anew.\nThe time taken to download the entire 200 GB file is\
+    \ 200 GB / 2 GB per minute = 100 minutes.\nFinally, including the time before\
+    \ restart and the time taken to complete the file after restart, the total time\
+    \ required is 60 minutes + 100 minutes = 160 minutes.\n"
+  answer: 160 minutes
+- reasoning: 'First, calculate the distance Mark traveled initially in 3 hours at
+    60 miles per hour:
+
+    Distance = Speed * Time = 60 miles per hour * 3 hours = 180 miles.
+
+
+    He then starts his return trip of 4 hours. During the first 2 hours, he is stopped
+    so he covers 0 miles in that duration.
+
+    For the next 30 minutes (0.5 hours), he drives at 30 miles per hour:
+
+    Distance = Speed * Time = 30 miles per hour * 0.5 hours = 15 miles.
+
+
+    Finally, he drives the remainder of the time (1.5 hours) at a speed of 80 miles
+    per hour:
+
+    Distance = Speed * Time = 80 miles per hour * 1.5 hours = 120 miles.
+
+
+    Total return trip distance covered = 0 miles + 15 miles + 120 miles = 135 miles.
+
+
+    To find the distance he is from home at the conclusion of the 4-hour return journey,
+    subtract the return trip distance from the initial distance:
+
+    Distance from home = Initial distance - Return trip distance = 180 miles - 135
+    miles = 45 miles.
+
+    '
+  answer: 45 miles
+- reasoning: 'Eliza earns $10 per hour for the first 40 hours of work.
+
+
+    For the first 40 hours:
+
+    40 hours * $10/hour = $400.
+
+
+    Eliza works 5 extra hours beyond the standard 40 hours, and she earns 1.2 times
+    her normal hourly wage for these extra hours.
+
+
+    Extra hourly rate:
+
+    $10/hour * 1.2 = $12/hour.
+
+
+    Income for the extra 5 hours:
+
+    5 hours * $12/hour = $60.
+
+
+    Total income for the week:
+
+    $400 (first 40 hours) + $60 (extra 5 hours) = $460.
+
+    '
+  answer: $460
+- reasoning: 'In the first month, the application was downloaded 60 times.
+
+    In the second month, downloads tripled, resulting in 60 * 3 = 180 downloads.
+
+    In the third month, downloads decreased by 30% compared to the second month, thus
+    the number of downloads was 70% of 180, which is 0.7 * 180 = 126 downloads.
+
+    The cumulative number of downloads over the three months is the sum of downloads
+    from each month: 60 (first month) + 180 (second month) + 126 (third month) = 366.
+
+    '
+  answer: '366'
+- reasoning: 'First, let''s calculate the cost for each type of pastry:
+
+
+    For the 3 dozen donuts:
+
+    3 dozens * $68 per dozen = $204
+
+
+    For the 2 dozen mini cupcakes:
+
+    2 dozens * $80 per dozen = $160
+
+
+    For the 6 dozen mini cheesecakes:
+
+    6 dozens * $55 per dozen = $330
+
+
+    Adding all these costs together gives us the total amount Toula paid:
+
+    $204 + $160 + $330 = $694
+
+    '
+  answer: $694
+- reasoning: 'Carlos initially invests $90 to plant the lemon tree. Each year, he
+    earns money from selling lemons and incurs expenses for maintaining the tree.
+
+    - Annual income from 7 lemons: 7 lemons x $1.50/lemons = $10.50
+
+    - Annual expenses for watering and feeding: $3
+
+    - Net annual profit: $10.50 (income) - $3 (expenses) = $7.50 net profit/year
+
+    To find out when Carlos starts to profit, we need to divide the initial investment
+    by the net annual profit:
+
+    $90 / $7.50 = 12 years
+
+    '
+  answer: 12 years
+- reasoning: "Let the total number of gadgets Rebecca initially had be \\( x \\).\n\
+    \n1. Rebecca sold one-third of her gadgets at the blue house, so she has \\( \\\
+    frac{2}{3}x \\) gadgets left.\n2. At the yellow house, she sold 2 more gadgets,\
+    \ so she is left with \\( \\frac{2}{3}x - 2 \\) gadgets.\n3. Then, she sold half\
+    \ of the remaining gadgets at the purple house, so she was left with half of \\\
+    ( \\frac{2}{3}x - 2 \\):\n   \\[\n   \\frac{1}{2} \\left( \\frac{2}{3}x - 2 \\\
+    right) = 5\n   \\]\n4. Solving the equation:\n   \\[\n   \\frac{1}{2} \\left(\
+    \ \\frac{2}{3}x - 2 \\right) = 5\n   \\]\n   Multiply both sides by 2:\n   \\\
+    [\n   \\frac{2}{3}x - 2 = 10\n   \\]\n   Add 2 to both sides:\n   \\[\n   \\frac{2}{3}x\
+    \ = 12\n   \\]\n   Multiply both sides by \\( \\frac{3}{2} \\):\n   \\[\n   x\
+    \ = 12 \\times \\frac{3}{2} = 18\n   \\]\n"
+  answer: '18'
+- reasoning: "First, determine how many students signed up for piano lessons. \n20%\
+    \ of 20 students is \\( 0.20 \\times 20 = 4 \\) students. \n\nNext, find the number\
+    \ of students remaining after accounting for the piano students.\nThe remaining\
+    \ students are \\( 20 - 4 = 16 \\).\n\nThen, determine how many students signed\
+    \ up for guitar lessons. \n25% of the remaining 16 students is \\( 0.25 \\times\
+    \ 16 = 4 \\) students.\n\nFinally, find the number of students who signed up for\
+    \ violin lessons, which will be the remainder.\nThe remainder of the students\
+    \ is \\( 16 - 4 = 12 \\).\n\nTo find the fraction of the entire group that signed\
+    \ up for violin lessons, divide the number of violin students by the total number\
+    \ of students.\nThe fraction is \\( \\frac{12}{20} \\).\n"
+  answer: '0.6'
+- reasoning: 'To determine the resulting profit for each investment option, we first
+    need to calculate the expected growth for each sector. For the jewelry valued
+    at $5,000, we apply the 2.5% increase:
+
+    Expected growth for jewelry = $5,000 * (2.5 / 100) = $5,000 * 0.025 = $125
+
+
+    For the electronic devices priced at $8,000, we apply the 1.2% increase:
+
+    Expected growth for electronic devices = $8,000 * (1.2 / 100) = $8,000 * 0.012
+    = $96
+
+
+    Comparing the two results, the jewelry sector yields a higher profit of $125,
+    while the electronic devices sector yields a profit of $96. Therefore, the business
+    owner should invest in the jewelry sector to maximize his profit by the end of
+    the month.
+
+    '
+  answer: '125'
+- reasoning: '"On the first day, each train travels 80 miles west. On the second day,
+    each train travels 150 miles north. To determine the total distance each train
+    travels, we sum the distances traveled on both days:
+
+    80 miles (west) + 150 miles (north) = 230 miles."
+
+    '
+  answer: 230 miles
+- reasoning: 'Jill earns $20 per hour for teaching and works 35 hours per week. Therefore,
+    her weekly earnings from teaching are 35 hours per week * $20 per hour = $700
+    per week. She also works 50 weeks per year, so her annual earnings from teaching
+    are 50 weeks * $700 per week = $35,000.
+
+
+    For her coaching role, Jill earns $30 per hour and works 15 hours per week. Therefore,
+    her weekly earnings from coaching are 15 hours per week * $30 per hour = $450
+    per week. She also works 50 weeks per year, so her annual earnings from coaching
+    are 50 weeks * $450 per week = $22,500.
+
+
+    Finally, to find her total annual earnings, we sum her earnings from teaching
+    and coaching: $35,000 (teaching) + $22,500 (coaching) = $57,500.
+
+    '
+  answer: '57500'
+- reasoning: "Claire uses 3 eggs per day to make her omelet.\nIn one week, there are\
+    \ 7 days.\nTherefore, in 4 weeks, there will be 4 x 7 days = 28 days.\nTo find\
+    \ the total eggs consumed in 28 days, we multiply the number of eggs per day by\
+    \ the number of days: 3 eggs/day x 28 days = 84 eggs.\nTo convert the total number\
+    \ of eggs into dozens, we divide by 12 (since a dozen equals 12 eggs): 84 eggs\
+    \ \xF7 12 = 7 dozens.\n"
+  answer: '7'
+- reasoning: 'To maintain an overall average speed of 4 miles per hour over the 12-mile
+    path, Sarah needs to complete the trek in a total of 12 miles / 4 miles per hour
+    = 3 hours. She has already spent 2 hours to walk the first 6 miles (4 miles +
+    2 miles). Therefore, she has 1 hour remaining to cover the final 6 miles to achieve
+    her goal. To find her pace, we divide the remaining distance by the remaining
+    time, giving us 6 miles / 1 hour.
+
+    '
+  answer: '6'
+- reasoning: 'First, calculate the amount of water in the original 10 liters of the
+    orange beverage:
+
+    Total water in orange beverage = 10 liters * (2/3) = 20/3 liters.
+
+
+    Then account for the spill:
+
+    Spilled water = 1 liter * (2/3) = 2/3 liters.
+
+    Remaining water in orange beverage = 20/3 liters - 2/3 liters = 18/3 liters =
+    6 liters.
+
+
+    Next, calculate the amount of water in the 15 liters of pineapple beverage:
+
+    Total water in pineapple beverage = 15 liters * (3/5) = 45/5 liters = 9 liters.
+
+
+    Combine the remaining water from both beverages:
+
+    Total water = 6 liters + 9 liters = 15 liters.
+
+
+    Final volume of the combined drink is 24 liters, as the orange beverage after
+    spill is 9 liters and the pineapple beverage is 15 liters.
+
+    Hence, the total water content in the 24 liters of the combined drink is 15 liters.
+
+    '
+  answer: '15'
+- reasoning: 'Raymond is 6 years older than Samantha. If Samantha is currently 31
+    years old, Raymond''s current age is:
+
+    31 years + 6 years = 37 years.
+
+    Raymond became a father at the age of 23. To find out how many years have passed
+    since Raymond''s son was born, we subtract the age he became a father from his
+    current age:
+
+    37 years - 23 years = 14 years.
+
+    '
+  answer: 14 years
+- reasoning: "Billy serves a total of 8 clients with the following purchasing pattern:\n\
+    - The first trio of clients each purchase 1 DVD:\n  3 clients * 1 DVD/client =\
+    \ 3 DVDs\n- The subsequent duo of clients each buy 2 DVDs apiece:\n  2 clients\
+    \ * 2 DVDs/client = 4 DVDs\n- The final trio of clients make no purchases:\n \
+    \ 3 clients * 0 DVDs/client = 0 DVDs\nAdding together all DVDs sold:\n3 DVDs +\
+    \ 4 DVDs + 0 DVDs = 7 DVDs\n"
+  answer: '7'
+- reasoning: 'The candle is lit from 1:00 PM to 5:00 PM. To find the total number
+    of hours the candle burns, we subtract 1:00 PM from 5:00 PM, which is 4 hours.
+    Since the candle decreases in height by 2 centimeters for each hour it is lit,
+    we multiply the number of hours (4) by the rate of decrease per hour (2 centimeters).
+
+    '
+  answer: '8'
+- reasoning: 'To determine the original price of the book, we must consider the final
+    price Kyle paid after a 25% discount. Let the original price be denoted as \(
+    P \).
+
+
+    Applying a 25% discount means Kyle paid 75% of the original price because 100%
+    - 25% = 75%.
+
+
+    The mathematical representation of this is:
+
+    \( 0.75P = 19.50 \)
+
+
+    To find \( P \), we can divide both sides of the equation by 0.75:
+
+    \( P = \frac{19.50}{0.75} \)
+
+
+    Performing the division gives:
+
+    \( P = 26 \)
+
+    '
+  answer: '26'
+- reasoning: 'First, calculate the total cost of the chicken plate, milk cartons,
+    and apples:
+
+    - Chicken plate: $12
+
+    - Milk cartons: 5 cartons * $3/carton = $15
+
+    - Apples: 4 apples * $1.50/apple = $6
+
+    Adding these together gives:
+
+    - Total cost for chicken plate, milk cartons, and apples = $12 + $15 + $6 = $33
+
+
+    Next, we subtract this total from Marie''s overall expenditure to find out how
+    much she spent on pizza boxes:
+
+    - Remaining expenditure for pizza boxes = $50 - $33 = $17
+
+
+    Finally, divide the remaining expenditure by the cost per pizza box to find the
+    number of pizza boxes:
+
+    - Number of pizza boxes = $17 / $8.50 = 2
+
+    '
+  answer: '2'
+- reasoning: "To find the total amount Anya spent, we need to calculate the cost for\
+    \ each type of clothing item and then sum these costs. \n- First, calculate the\
+    \ total cost of the shorts: 3 sets of shorts at $16.50 each.\n- Total cost of\
+    \ shorts = 3 * $16.50 = $49.50.\n- Next, calculate the total cost of the trousers:\
+    \ 3 sets of trousers at $22.50 each.\n- Total cost of trousers = 3 * $22.50 =\
+    \ $67.50.\n- Then, calculate the total cost of footwear: 3 sets of footwear at\
+    \ $42 each.\n- Total cost of footwear = 3 * $42 = $126.\n- Finally, sum these\
+    \ costs to find the total amount spent.\nTotal amount spent = $49.50 + $67.50\
+    \ + $126 = $243.\n"
+  answer: $243
+- reasoning: "\"First, we need to determine the number of containers Samuel will need\
+    \ for 60 days. Since each container holds 15 servings, we divide 60 by 15:\n 60\
+    \ / 15 = 4 containers.\n Next, we multiply the cost per container by the number\
+    \ of containers:\n 4 containers * $4.00 per container = $16.00.\n Therefore, Samuel\
+    \ will have spent $16.00 on ice cream after 60 days.\"\n"
+  answer: $16.00
+- reasoning: 'Henry took the first break after cycling 20 miles, and it is given that
+    the second break occurred when he was 15 miles away from finishing the 60-mile
+    journey. Thus, the second break happened at 60 - 15 = 45 miles into the journey.
+    To find the distance between the first and second breaks, subtract the distance
+    of the first break from the distance of the second break: 45 miles - 20 miles.
+
+    '
+  answer: 25 miles
+- reasoning: '"To find the price of the boots, let''s first determine the total cost
+    of the two pairs of high heels:
+
+    - The first pair of high heels costs $33.
+
+    - The second pair of high heels costs twice as much as the first pair, which is
+    2 * $33 = $66.
+
+    - The total cost of both pairs of high heels would be $33 + $66 = $99.
+
+
+    Since the two pairs of high heels together are five dollars cheaper than the boots,
+    we add five dollars to the total cost of the high heels to find the price of the
+    boots:
+
+    - Price of boots = $99 + $5 = $104."
+
+    '
+  answer: '104'
+- reasoning: 'Jared''s age and Evan''s age are in a ratio of 7:11. Let''s denote Jared''s
+    age as 7x and Evan''s age as 11x.
+
+    The sum of their current ages is given as 162.
+
+    Therefore, we have the equation: 7x + 11x = 162.
+
+    Simplifying, we get 18x = 162.
+
+    Solving for x, we divide both sides by 18: x = 162 / 18, which gives x = 9.
+
+    Jared''s age is 7x = 7 * 9 = 63.
+
+    Evan''s age is 11x = 11 * 9 = 99.
+
+    Evan''s age a decade from today will be 99 + 10.
+
+    '
+  answer: '109'
+- reasoning: '"First, we need to find each friend''s guess:
+
+    - First friend''s guess: 80
+
+    - Second friend''s guess: 20 + (1/2 * 80) = 20 + 40 = 60
+
+    - Third friend''s guess: 80 + (0.25 * 80) = 80 + 20 = 100
+
+
+    Next, we calculate the mean of these guesses:
+
+    - Mean = (80 + 60 + 100) / 3 = 240 / 3 = 80.
+
+
+    Therefore, the mean of all their guesses is 80."
+
+    '
+  answer: '80'
+- reasoning: 'Alex spends 0.5 hours daily to care for each dog. With 10 dogs, the
+    daily time spent is:
+
+    0.5 hours/dog * 10 dogs = 5 hours/day.
+
+
+    Since there are 7 days in a week, the total weekly time spent is:
+
+    5 hours/day * 7 days/week = 35 hours/week.
+
+    '
+  answer: 35 hours
+- reasoning: 'Let''s denote the number of silver coins as S and the number of gold
+    coins as G.
+
+    According to the problem, the total number of coins is 110, so we have:
+
+    S + G = 110.
+
+    The number of gold coins is 30 more than the number of silver coins, so we have:
+
+    G = S + 30.
+
+    Substituting the second equation into the first equation, we get:
+
+    S + (S + 30) = 110.
+
+    Simplifying, we get:
+
+    2S + 30 = 110.
+
+    Subtracting 30 from both sides:
+
+    2S = 80.
+
+    Dividing both sides by 2:
+
+    S = 40.
+
+    Therefore, the number of gold coins G is:
+
+    G = S + 30,
+
+    G = 40 + 30.
+
+    '
+  answer: '70'
+- reasoning: 'To find the number of gems Carlos has, we need to first determine how
+    many gems Beatriz possesses. Given that Eva has 40 gems, we can calculate half
+    of Eva''s gems and then add 5 to that amount to find Beatriz''s total. With Beatriz''s
+    total number of gems, we can then find Carlos''s total by subtracting 2.
+
+    Here are the steps in detail:
+
+    1. Calculate half of Eva''s gems: 40 / 2 = 20.
+
+    2. Add 5 to that amount to get Beatriz''s total: 20 + 5 = 25.
+
+    3. Subtract 2 from Beatriz''s total to find Carlos''s total: 25 - 2 = 23.
+
+    '
+  answer: '23'
+- reasoning: 'John plays table tennis for 40 minutes. In the initial 20 minutes, he
+    earns 4 points. In the latter 20 minutes, he achieves a score that is 25% higher
+    than his initial 4 points.
+
+    To find the points scored in the latter 20 minutes, we calculate 25% of 4, which
+    is 1 (since 0.25 * 4 = 1), and then add this to the original 4 points, resulting
+    in 5 points for the latter 20 minutes.
+
+    Finally, we sum the points from both intervals: 4 points (initial 20 minutes)
+    + 5 points (latter 20 minutes) = 9 points.
+
+    '
+  answer: '9'
+- reasoning: 'Terry consumes 2 yogurt pots daily. Over 30 days, he will need 2 * 30
+    = 60 yogurt pots.
+
+    With the discounted offer, 4 yogurts cost $5.00. Therefore, each yogurt costs
+    $5.00 / 4 = $1.25.
+
+    For 60 yogurts, the total expenditure is 60 * $1.25 = $75.00.
+
+    '
+  answer: $75.00
+- reasoning: 'First, calculate the total money Mike has from selling his toy car sets:
+
+    - 13 toy car sets * $15 per set = $195.
+
+    Then, calculate the total cost of the 8 video games:
+
+    - 8 video games * $20 per game = $160.
+
+    Since Mike had $5 remaining after buying the video games, he must have spent $160
+    of his total money.
+
+    Therefore, Mike started with $195 and spent $160, leaving him with:
+
+    - $195 - $160 = $35.
+
+    Each toy car set costs $15, so calculate how many toy car sets he can afford with
+    his remaining money:
+
+    - $35 / $15 per set = 2 sets (with $5 left over).
+
+    As a result, Mike ends up giving away:
+
+    - 13 toy car sets - 2 toy car sets = 11 sets.
+
+    '
+  answer: '11'
+- reasoning: '"To find Tom''s running speed, we first calculate the total time he
+    spends running each week. On the first day, he runs for 3 hours. On the other
+    two days, he runs for half the time he did on the first day, which is 3/2 = 1.5
+    hours per day. Therefore, the total time spent running each week is:
+
+    3 hours (first day) + 1.5 hours (second day) + 1.5 hours (third day) = 6 hours.
+
+    He jogs a total of 60 miles each week. To find his running speed in miles per
+    hour, we use the formula:
+
+    speed = total distance / total time.
+
+    So his running speed is:
+
+    speed = 60 miles / 6 hours = 10 miles per hour."
+
+    '
+  answer: '10'
+- reasoning: 'Dana''s skipping speed is 3 miles per hour.
+
+    Therefore, Dana''s running speed is 2 * 3 = 6 miles per hour.
+
+    Dana''s walking speed is 6 / 4 = 1.5 miles per hour.
+
+
+    Dana dedicates one-third of six hours to running:
+
+    Running time = 6 / 3 = 2 hours.
+
+    Distance covered while running = 2 hours * 6 miles per hour = 12 miles.
+
+
+    Dana dedicates the remaining two-thirds of six hours to walking:
+
+    Walking time = 6 * (2/3) = 4 hours.
+
+    Distance covered while walking = 4 hours * 1.5 miles per hour = 6 miles.
+
+
+    Total distance covered = Distance while running + Distance while walking = 12
+    miles + 6 miles.
+
+    '
+  answer: 18 miles.
+- reasoning: "\"Let's denote the age of Max's smartphone as M, Julia's smartphone\
+    \ as J, and Aiden's smartphone as A. \n\nGiven: \n- Max's smartphone is 1 year\
+    \ old.\n- Julia's smartphone is twice the age of Max's smartphone. \n  Therefore,\
+    \ J = 2 * M\n- Aiden's smartphone is quadruple the age of Julia's smartphone.\n\
+    \  Therefore, A = 4 * J\n\nBy substituting the values:\nM = 1 year\nJ = 2 * 1\
+    \ = 2 years\nA = 4 * 2 = 8 years\n\nThus, the age of Aiden's smartphone is 8 years.\"\
+    \n"
+  answer: '8'
+- reasoning: 'Robin''s usual throwing range for the spear is 400 feet. With the emerald
+    gem, he can throw the spear three times further. This means his new throwing range
+    is 3 * 400 = 1200 feet. The dragon''s fiery breath has a reach of 1000 feet. The
+    maximum distance outside the dragon''s flame reach from which Robin could stand
+    and still strike Zargon with the golden spear is the difference between Robin''s
+    throwing range and the dragon''s flame reach, which is 1200 - 1000 = 200 feet.
+
+    '
+  answer: 200 feet
+- reasoning: 'Mrs. Anderson prepared 5 cherry pies, and each pie was sliced into 8
+    portions.
+
+    First, calculate the total number of pie portions:
+
+    5 pies * 8 portions per pie = 40 portions.
+
+    Next, use the fact that 14 portions were left uneaten.
+
+    To find the portions consumed, subtract the uneaten portions from the total portions:
+
+    40 total portions - 14 uneaten portions = 26 portions consumed.
+
+    '
+  answer: '26'
+- reasoning: 'First, calculate the remaining calories you can consume today:
+
+    Remaining calories = Daily caloric limit - Calories already ingested
+
+    Remaining calories = 2000 - 1800
+
+    Remaining calories = 200
+
+
+    Next, determine how many servings of snack chips fit within the remaining caloric
+    limit:
+
+    Calories per serving of snack chips = 250
+
+    Number of servings within the remaining caloric limit = Remaining calories / Calories
+    per serving
+
+    Number of servings within the remaining caloric limit = 200 / 250
+
+    Number of servings within the remaining caloric limit = 0.8 servings
+
+
+    Finally, convert the number of servings to grams:
+
+    Total weight of the bag = 300g
+
+    Number of servings in the bag = 5 servings
+
+    Weight per serving = Total weight of the bag / Number of servings in the bag
+
+    Weight per serving = 300 / 5
+
+    Weight per serving = 60g
+
+
+    Quantity of chips you can consume = Weight per serving * Number of servings within
+    the remaining caloric limit
+
+    Quantity of chips you can consume = 60g * 0.8
+
+    Quantity of chips you can consume = 48g
+
+    '
+  answer: 48g
+- reasoning: 'Charlie can make 10 candles with each pound of beeswax. Thus, to produce
+    20 candles, he needs 2 pounds of beeswax.
+
+    - Total cost of beeswax and wicks for 2 pounds = 2 pounds * $10.00 per pound =
+    $20.00
+
+    - Revenue from selling 20 candles = 20 candles * $2.00 each = $40.00
+
+    - Net profit = Revenue - Total Cost = $40.00 - $20.00
+
+    '
+  answer: $20.00
+- reasoning: 'Meredith wrote 5 articles on Monday, and each article takes 4 hours
+    to write. Therefore, on Monday, she wrote for 5 * 4 = 20 hours.
+
+
+    On Tuesday, she wrote 2/5 times more articles than on Monday. We calculate the
+    number of articles she wrote on Tuesday as follows:
+
+    5 (articles on Monday) * (1 + 2/5) = 5 * (5/5 + 2/5) = 5 * 7/5 = 7 articles. Hence,
+    she wrote for 7 * 4 = 28 hours on Tuesday.
+
+
+    On Wednesday, she wrote twice the number of articles she did on Tuesday. Therefore,
+    she wrote 7 * 2 = 14 articles on Wednesday, which took her 14 * 4 = 56 hours.
+
+
+    Adding up the total hours for all three days:
+
+    20 hours (Monday) + 28 hours (Tuesday) + 56 hours (Wednesday) = 104 hours.
+
+    '
+  answer: 104 hours
+- reasoning: "\"Candice started with 80 sticky notes. She then bought an additional\
+    \ pack of sticky notes. During her shift, she used 220 sticky notes. At the end\
+    \ of the day, she had 23 sticky notes left.\nTo find out how many sticky notes\
+    \ were in the pack she bought, we can use the following calculation:\nLet X be\
+    \ the number of sticky notes in the pack she bought.\nThe total number of sticky\
+    \ notes she had after buying the pack is 80 + X.\nShe used 220 sticky notes during\
+    \ her shift, so after using them, she had:\n(80 + X) - 220 sticky notes left.\
+    \ \nWe know that she had 23 sticky notes remaining at the end of the day, so the\
+    \ equation is:\n80 + X - 220 = 23\nSolving for X:\nX = 23 + 220 - 80\nX = 243\
+    \ - 80\nX = 163\"\n"
+  answer: '163'
+- reasoning: 'To determine the number of blue ties Jack purchased, we divide the total
+    amount spent on blue ties ($200) by the price of each blue tie ($40):
+
+    Number of blue ties = $200 / $40 = 5 blue ties.
+
+
+    Since Jack purchases double the number of red ties compared to blue ties, the
+    number of red ties is:
+
+    Number of red ties = 2 * Number of blue ties = 2 * 5 = 10 red ties.
+
+
+    The price of each red tie is 50% higher than the price of each blue tie. Therefore,
+    the price of each red tie is:
+
+    Price of each red tie = $40 + (0.50 * $40) = $40 + $20 = $60.
+
+
+    To find the total amount spent on red ties, we multiply the number of red ties
+    by the price of each red tie:
+
+    Total amount spent on red ties = 10 * $60 = $600.
+
+
+    Finally, the total amount Jack spent on ties is the sum of the amount spent on
+    blue ties and the amount spent on red ties:
+
+    Total amount spent on ties = $200 + $600 = $800.
+
+    '
+  answer: $800
+- reasoning: "To determine the number of 6-inch segments that Tracy divided the 4-foot-long\
+    \ wire into, we first need to convert the length of the wire from feet to inches.\
+    \ \n\nSince 1 foot is equivalent to 12 inches, a 4-foot-long wire is 4 * 12 inches\
+    \ = 48 inches long.\n\nNext, we divide the total length of the wire by the length\
+    \ of each segment. Therefore, we calculate 48 inches \xF7 6 inches = 8 segments.\n"
+  answer: '8'
+- reasoning: "The building has 15 levels with 8 apartments per level.\nTotal apartments\
+    \ = 15 levels * 8 apartments/level = 120 apartments.\n75% of the apartments are\
+    \ rented out, so\nRented apartments = 75% of 120 = 0.75 * 120 = 90 apartments.\n\
+    Vacant apartments = Total apartments - Rented apartments \n= 120 - 90 = 30 apartments.\n"
+  answer: '30'
