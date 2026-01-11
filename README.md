@@ -1,5 +1,5 @@
 # structured-output
-### Please read our [article](https://dl.acm.org/doi/abs/10.1145/3472813.3472817) for further information.
+### Please read our [article](https://arxiv.org/abs/2509.21791) for further information.
 `gsm8k` folder records the causal discovery process of Grade School Math 8K.
 - `gsm8k_json.ipynb`, `gsm8k_xml.ipynb`, and `gsm8k_yaml.ipynb` corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
 - `gsm8k_json_additional_intervention`, `gsm8k_xml_additional_intervention`, `gsm8k_yaml_additional_intervention`, corresponds to the causal discovery process of JSON, XML, and YAML under additional intervention of instructions, respectively.
