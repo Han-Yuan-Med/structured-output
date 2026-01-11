@@ -54,7 +54,7 @@ If you use our findings in a scientific publication, we would appreciate using t
       Luo, Wuqiong  and
       Ma, Zheng",
     booktitle = "Findings of the Association for Computational Linguistics: EACL 2026",
-    year = "2024",
+    year = "2026",
     publisher = "Association for Computational Linguistics",
 }
 ```
