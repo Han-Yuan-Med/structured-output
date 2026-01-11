@@ -1,4 +1,5 @@
 # structured-output
+Structured output from large language models (LLMs) has enhanced efficiency in processing generated information and is increasingly adopted in industrial applications. Prior studies have investigated the impact of structured output on LLMs' generation quality, often presenting one-way findings. Some suggest that structured format enhances completeness and factual accuracy, while others argue that it restricts the reasoning capacity of LLMs and leads to reductions in standard evaluation metrics. Potential limitations of these assessments include restricted testing scenarios, weakly controlled comparative settings, and reliance on coarse metrics. In this work, we present a refined analysis using causal inference. Based on one assumed and two guaranteed constraints, we derive five potential causal structures characterizing the influence of structured output on LLMs' generation: (1) collider without m-bias, (2) collider with m-bias, (3) single cause from instruction, (4) single cause from output format, and (5) independence. Across seven public and one developed reasoning tasks, we find that coarse metrics report positive, negative, or neutral effects of structured output on GPT-4o's generation. However, causal inference reveals no causal impact in 43 out of 48 scenarios. In the remaining 5, 3 involve multifaceted causal structures influenced by concrete instructions. Further experiments show that OpenAI-o3 are more resilient to output formats than general-purpose GPT-4o and GPT-4.1, highlighting an unaware advantage of reasoning models.
 ### Please read our [article](https://arxiv.org/abs/2509.21791) for further information.
 `gsm8k` folder records the causal discovery process of Grade School Math 8K.
 - `gsm8k_json.ipynb`, `gsm8k_xml.ipynb`, and `gsm8k_yaml.ipynb` corresponds to the causal discovery process of JSON, XML, and YAML, respectively.
@@ -56,5 +57,15 @@ If you use our findings in a scientific publication, we would appreciate using t
     booktitle = "Findings of the Association for Computational Linguistics: EACL 2026",
     year = "2026",
     publisher = "Association for Computational Linguistics",
+}
+
+@misc{yuan2025quantifyingimpactstructuredoutput,
+      title={Quantifying the Impact of Structured Output Format on Large Language Models through Causal Inference}, 
+      author={Han Yuan and Yue Zhao and Li Zhang and Wuqiong Luo and Zheng Ma},
+      year={2025},
+      eprint={2509.21791},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.21791}, 
 }
 ```
